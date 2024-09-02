@@ -13,3 +13,6 @@ Na página "Detalhes" analisamos as vendas mensais, vendas por trimestre e venda
 Página "TOP N", analisamos produtos TOP 3 de vendas por Pais, os TOP 3 de produtos mais vendidos.
 Un gráfico de dispersão sobre unidades vendidas e vendas por mês.
 Visuais de agrupamentos e compartimentos de dados.
+
+## Desafio 3. 
+Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI.
